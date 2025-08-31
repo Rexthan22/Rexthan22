@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hola a todos soy Ethan 👋</h1>
+<h2>Datos sobre mi 💻🐲</h2>
+<br>
+<p align="left">
+  🎓 Estudiante de Ingeniera en Sistemas Computacionales
+  
+  📝 Sin experiencia laboral acutlamente, pero con amplio conociminetos y hambre de aprender más
+  
+  🖥️ Roles: Lider, diseñador y arquitecto
 
-<!--
-**Rexthan22/Rexthan22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  💁 Lenguas: Dominio de ingles
+  
+</p>
 
-Here are some ideas to get you started:
+<h3>Lenguajes que domino</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,javascript,php,cpp,matlab,mysql,css,html,kali,vscode,windows&perline=6"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
