@@ -12,7 +12,7 @@
   
 </p>
 
-<h3>Lenguajes que domino</h3>
+<h3>Lenguajes dominados</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,python,javascript,php,cpp,matlab,mysql,css,html,kali,vscode,windows&perline=6"/>
