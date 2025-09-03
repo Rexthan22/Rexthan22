@@ -8,7 +8,7 @@
   
   🖥️ Roles: Líder, diseñador y arquitecto
 
-  💁 Lenguas: Dominio de inglés 
+  💁 Lenguas: Dominio de inglés Nivel C1
   
 </p>
 
