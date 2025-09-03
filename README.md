@@ -1,14 +1,14 @@
-<h1 align="center">Hola a todos soy Ethan 👋</h1>
+<h1 align="center">Hola a todos, soy Ethan 👋</h1>
 <h2>Datos sobre mi 💻🐲</h2>
 <br>
 <p align="left">
-  🎓 Estudiante de Ingeniera en Sistemas Computacionales
+  🎓 Estudiante de Ingeniería en Sistemas Computacionales
   
-  📝 Sin experiencia laboral acutlamente, pero con amplio conociminetos y hambre de aprender más
+  📝 Sin experiencia laboral actualmente, pero con amplio conocimientos y hambre de aprender más
   
-  🖥️ Roles: Lider, diseñador y arquitecto
+  🖥️ Roles: Líder, diseñador y arquitecto
 
-  💁 Lenguas: Dominio de ingles
+  💁 Lenguas: Dominio de inglés 
   
 </p>
 
