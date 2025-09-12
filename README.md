@@ -15,7 +15,7 @@
 <h3>Lenguajes dominados</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,c,javascript,php,cpp,matlab,mysql,css,html,kali,vscode,windows&perline=6"/>
+    <img src="https://skillicons.dev/icons?i=java,python,php,c,cpp,matlab,mysql,html,css,javascript,kali,vscode,windows&perline=6"/>
   </a>
 </p>
 
